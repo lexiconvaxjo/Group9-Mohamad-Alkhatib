@@ -1,0 +1,287 @@
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmAbout.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmOrder.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCategory.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCategoryRecord.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmChangePassword.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomers.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord2.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStockReport.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord1.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord1.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategory.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategoryRecord.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliers.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord1.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord2.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersReport.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmInvoiceReport.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmLogin.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmLoginDetails.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmMainMenu.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProduct.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord2.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmRegisteredUsersDetails.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSales.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesReport.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSplash.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStock.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord1.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersReport.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmRegistration.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.exe
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\bin\Debug\POS.exe.config
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\bin\Debug\POS.exe
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\bin\Debug\POS.pdb
+C:\Users\Raj\Desktop\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.pdb
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\POS.exe.config
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.exe
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.pdb
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\POS.exe
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\POS.pdb
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.Shared.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\FlashControlV71.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\ShockwaveFlashObjects.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\stdole.dll
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmAbout.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCategory.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCategoryRecord.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmChangePassword.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomers.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord2.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStockReport.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord1.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord1.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategory.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategoryRecord.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliers.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord1.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord2.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersReport.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmInvoiceReport.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmLogin.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmLoginDetails.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmMainMenu.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProduct.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord2.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmRegisteredUsersDetails.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSales.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord1.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesReport.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSplash.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStock.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord1.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersReport.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.frmRegistration.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\POS.Properties.Resources.resources
+E:\Swedan Client\Inventory Project\Inventory Project\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\EntityFramework.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\EntityFramework.xml
+E:\Swedan Client\Inventory Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\POS.exe.config
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.exe
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.pdb
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmAbout.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCategory.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCategoryRecord.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmChangePassword.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomers.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord2.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStockReport.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord1.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord1.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategory.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategoryRecord.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliers.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord1.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord2.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersReport.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmInvoiceReport.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmLogin.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmLoginDetails.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmMainMenu.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProduct.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord2.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmRegisteredUsersDetails.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSales.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord1.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesReport.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSplash.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStock.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord1.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersReport.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmRegistration.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.Properties.Resources.resources
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\POS.exe
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\stdole.dll
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.xml
+C:\Users\deltagare\Downloads\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\POS.exe.config
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.exe
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.pdb
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\POS.exe
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\POS.pdb
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\stdole.dll
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.xml
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmAbout.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCategory.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCategoryRecord.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmChangePassword.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomers.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord2.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStockReport.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord1.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord1.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategory.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSubCategoryRecord.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliers.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord1.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersRecord2.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmCustomersReport.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmInvoiceReport.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmLogin.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmLoginDetails.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmMainMenu.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProduct.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmProductsRecord2.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmRegisteredUsersDetails.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSales.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesRecord1.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSalesReport.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSplash.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStock.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmStockRecord1.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmSuppliersReport.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.frmRegistration.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\POS.Properties.Resources.resources
+C:\Users\deltagare\Documents\Visual Studio 2015\Projects\Inventory Project\Inventory Project\Inventory Project\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+C:\Repo\Project\Inventory Project\bin\Debug\POS.exe.config
+C:\Repo\Project\Inventory Project\obj\Debug\POS.exe
+C:\Repo\Project\Inventory Project\obj\Debug\POS.pdb
+C:\Repo\Project\Inventory Project\bin\Debug\POS.exe
+C:\Repo\Project\Inventory Project\bin\Debug\POS.pdb
+C:\Repo\Project\Inventory Project\bin\Debug\EntityFramework.dll
+C:\Repo\Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Repo\Project\Inventory Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Repo\Project\Inventory Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Repo\Project\Inventory Project\bin\Debug\stdole.dll
+C:\Repo\Project\Inventory Project\bin\Debug\EntityFramework.xml
+C:\Repo\Project\Inventory Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repo\Project\Inventory Project\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmAbout.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmCategory.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmCategoryRecord.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmChangePassword.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmCustomers.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSalesRecord2.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmStockRecord.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmStockReport.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSuppliersRecord1.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmProductsRecord.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmProductsRecord1.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSubCategory.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSubCategoryRecord.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSuppliers.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmCustomersRecord.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmCustomersRecord1.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmCustomersRecord2.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmCustomersReport.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmInvoiceReport.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmLogin.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmLoginDetails.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmMainMenu.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmProduct.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmProductsRecord2.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmRegisteredUsersDetails.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSales.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSalesRecord1.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSalesReport.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSplash.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmStock.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmStockRecord1.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmSuppliersReport.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.frmRegistration.resources
+C:\Repo\Project\Inventory Project\obj\Debug\POS.Properties.Resources.resources
+C:\Repo\Project\Inventory Project\obj\Debug\Inventory System.csproj.GenerateResource.Cache

@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Inventory_EntityFrameworkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryName" Type="varchar" MaxLength="250" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="CustomerName" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Address" Type="varchar(max)" Nullable="false" />
+    <Property Name="City" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="ContactNo" Type="nchar" MaxLength="15" Nullable="false" />
+    <Property Name="ContactNo1" Type="nchar" MaxLength="15" />
+    <Property Name="Email" Type="varchar" MaxLength="250" />
+    <Property Name="Notes" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="Invoice_Info">
+    <Key>
+      <PropertyRef Name="InvoiceNo" />
+    </Key>
+    <Property Name="InvoiceNo" Type="nchar" MaxLength="15" Nullable="false" />
+    <Property Name="InvoiceDate" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="CustomerID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="SubTotal" Type="float" Nullable="false" />
+    <Property Name="VATPer" Type="float" Nullable="false" />
+    <Property Name="VATAmount" Type="float" Nullable="false" />
+    <Property Name="DiscountPer" Type="float" Nullable="false" />
+    <Property Name="DiscountAmount" Type="float" Nullable="false" />
+    <Property Name="GrandTotal" Type="float" Nullable="false" />
+    <Property Name="TotalPayment" Type="float" Nullable="false" />
+    <Property Name="PaymentDue" Type="float" Nullable="false" />
+    <Property Name="PaymentType" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Status" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Remarks" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="ProductName" Type="varchar(max)" Nullable="false" />
+    <Property Name="CategoryID" Type="int" Nullable="false" />
+    <Property Name="SubCategoryID" Type="int" Nullable="false" />
+    <Property Name="Features" Type="varchar(max)" />
+    <Property Name="Price" Type="float" Nullable="false" />
+    <Property Name="Image" Type="image" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ProductSold">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="InvoiceNo" Type="nchar" MaxLength="15" Nullable="false" />
+    <Property Name="ProductID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="TotalAmount" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="UserName" />
+    </Key>
+    <Property Name="UserName" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="UserType" Type="nchar" MaxLength="20" Nullable="false" />
+    <Property Name="Password" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="ContactNo" Type="nchar" MaxLength="15" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="250" />
+    <Property Name="JoiningDate" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Stock">
+    <Key>
+      <PropertyRef Name="StockID" />
+    </Key>
+    <Property Name="StockID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="StockDate" Type="nchar" MaxLength="30" Nullable="false" />
+    <Property Name="ProductID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="SupplierID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SubCategory">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SubCategoryName" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="CategoryID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="SupplierId" />
+    </Key>
+    <Property Name="SupplierId" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="SupplierName" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="City" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="ContactNo" Type="nchar" MaxLength="15" Nullable="false" />
+    <Property Name="ContactNo1" Type="nchar" MaxLength="15" />
+    <Property Name="Email" Type="varchar" MaxLength="250" />
+    <Property Name="Notes" Type="varchar(max)" />
+  </EntityType>
+  <EntityType Name="Temp_Stock">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Product_ToCategory">
+    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Product_ToSubCategory">
+    <End Role="SubCategory" Type="Self.SubCategory" Multiplicity="1" />
+    <End Role="Product" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubCategory">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Product">
+        <PropertyRef Name="SubCategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductSold_Product">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="ProductSold" Type="Self.ProductSold" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="ProductSold">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stock_Product">
+    <End Role="Product" Type="Self.Product" Multiplicity="1" />
+    <End Role="Stock" Type="Self.Stock" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Product">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Stock_Supplier">
+    <End Role="Supplier" Type="Self.Supplier" Multiplicity="1" />
+    <End Role="Stock" Type="Self.Stock" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supplier">
+        <PropertyRef Name="SupplierId" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="SupplierID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubCategory_ToCategory">
+    <End Role="Category" Type="Self.Category" Multiplicity="1" />
+    <End Role="SubCategory" Type="Self.SubCategory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="SubCategory">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Table_Customer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Invoice_Info" Type="Self.Invoice_Info" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="Invoice_Info">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Table_InvoiceInfo">
+    <End Role="Invoice_Info" Type="Self.Invoice_Info" Multiplicity="1" />
+    <End Role="ProductSold" Type="Self.ProductSold" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Invoice_Info">
+        <PropertyRef Name="InvoiceNo" />
+      </Principal>
+      <Dependent Role="ProductSold">
+        <PropertyRef Name="InvoiceNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Inventory_EntityFrameworkModelStoreContainer">
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Invoice_Info" EntityType="Self.Invoice_Info" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductSold" EntityType="Self.ProductSold" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Registration" EntityType="Self.Registration" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Stock" EntityType="Self.Stock" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SubCategory" EntityType="Self.SubCategory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Supplier" EntityType="Self.Supplier" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Temp_Stock" EntityType="Self.Temp_Stock" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Product_ToCategory" Association="Self.FK_Product_ToCategory">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Product_ToSubCategory" Association="Self.FK_Product_ToSubCategory">
+      <End Role="SubCategory" EntitySet="SubCategory" />
+      <End Role="Product" EntitySet="Product" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductSold_Product" Association="Self.FK_ProductSold_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="ProductSold" EntitySet="ProductSold" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stock_Product" Association="Self.FK_Stock_Product">
+      <End Role="Product" EntitySet="Product" />
+      <End Role="Stock" EntitySet="Stock" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Stock_Supplier" Association="Self.FK_Stock_Supplier">
+      <End Role="Supplier" EntitySet="Supplier" />
+      <End Role="Stock" EntitySet="Stock" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubCategory_ToCategory" Association="Self.FK_SubCategory_ToCategory">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="SubCategory" EntitySet="SubCategory" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Table_Customer" Association="Self.FK_Table_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Invoice_Info" EntitySet="Invoice_Info" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Table_InvoiceInfo" Association="Self.FK_Table_InvoiceInfo">
+      <End Role="Invoice_Info" EntitySet="Invoice_Info" />
+      <End Role="ProductSold" EntitySet="ProductSold" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
